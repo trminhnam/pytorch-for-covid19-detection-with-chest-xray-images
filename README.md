@@ -1,1 +1,1 @@
-# chest-xrays-for-covid19-detection-with-pytorch
+# pytorch-for-covid19-detection-with-chest-xray-images
